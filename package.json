@@ -1,0 +1,14 @@
+{
+  "name": "extractlogs",
+  "version": "1.0.0",
+  "description": "program untuk ekstrak file logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roby parlan",
+  "license": "ISC",
+  "dependencies": {
+    "stdio": "^2.1.1"
+  }
+}
